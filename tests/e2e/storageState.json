@@ -1,0 +1,22 @@
+{
+  "cookies": [],
+  "origins": [
+    {
+      "origin": "http://localhost:8080",
+      "localStorage": [
+        {
+          "name": "vuex",
+          "value": "{\"moduleUser\":{\"status\":\"success\",\"token\":\"eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImJpYW5jYUBnbWFpbC5jb20iLCJyb2xlcyI6WyJwYXRpZW50Il0sImlhdCI6MTY0MTU2ODA1MCwiZXhwIjoxNjQxNTg5NjUwfQ.pckjE-9dro8ntRp-lNPpHPY6tExTNwEJ7JLZd_Z5rU90wdX-wy43-hZIHtk9sSO-tMSxNY0rOkmKfZgf857LNLdwOAfx6FUGe1hQu3wjFhY-tp4eJf64K7g2gr1XlRV4m-0eWTl6THpBtP5nzwWoQpNAr2dqMjCi0n7vooQIJEpY-_YnKMZuJ3zWHyMCipIXZoNDCclM_OJxZ7B0yuv7g7VBWF-xYtlUUaveYN5svsu0vqlriY-lc0gMVXApUr4jW4uv4qQn7QkMjKGn2UodO81pU9MA2vrzQJ7-aPd8s7lFd1IQnJSuj4vBklb8nWNBwpQZjm7_kd7PlpB5i1Kh6A\",\"user\":{\"username\":\"bianca@gmail.com\",\"password\":\"password\"}},\"moduleDiet\":{\"patientName\":\"\",\"patientSurname\":\"\",\"weekDays\":[],\"links\":{},\"trialId\":\"\"},\"moduleWeight\":{\"weights\":[]},\"moduleNav\":{\"navModel\":[]},\"moduleDiary\":{\"diaryOverview\":{\"glassesOfWater\":0},\"dataFoodList\":[],\"meal\":{\"time\":\"\",\"eatenFoods\":[],\"recommendedFoods\":[],\"_links\":{},\"recommendedFoodDetails\":[],\"skipped\":false,\"mealName\":\"\",\"mealText\":\"\",\"mealDate\":\"\",\"mealIndex\":\"\"},\"overviewDate\":\"\",\"overviewSelectedMeal\":\"\"},\"moduleProgress\":{\"progress\":{\"nutritionist\":[],\"patient\":[]}}}"
+        },
+        {
+          "name": "loglevel:webpack-dev-server",
+          "value": "SILENT"
+        },
+        {
+          "name": "token",
+          "value": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImJpYW5jYUBnbWFpbC5jb20iLCJyb2xlcyI6WyJwYXRpZW50Il0sImlhdCI6MTY0MTU2ODA1MCwiZXhwIjoxNjQxNTg5NjUwfQ.pckjE-9dro8ntRp-lNPpHPY6tExTNwEJ7JLZd_Z5rU90wdX-wy43-hZIHtk9sSO-tMSxNY0rOkmKfZgf857LNLdwOAfx6FUGe1hQu3wjFhY-tp4eJf64K7g2gr1XlRV4m-0eWTl6THpBtP5nzwWoQpNAr2dqMjCi0n7vooQIJEpY-_YnKMZuJ3zWHyMCipIXZoNDCclM_OJxZ7B0yuv7g7VBWF-xYtlUUaveYN5svsu0vqlriY-lc0gMVXApUr4jW4uv4qQn7QkMjKGn2UodO81pU9MA2vrzQJ7-aPd8s7lFd1IQnJSuj4vBklb8nWNBwpQZjm7_kd7PlpB5i1Kh6A"
+        }
+      ]
+    }
+  ]
+}
